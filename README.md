@@ -1,7 +1,7 @@
 <div style="width: 100%; height: auto; overflow: hidden;">
   <img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg?raw=true" 
        alt="logo" 
-       style="width: 100%; height: 120%; object-fit: cover; object-position: center 55%;" />
+       style="width: 100%; height: 50%%; object-fit: cover; object-position: center 55%;" />
 </div>
 
 
