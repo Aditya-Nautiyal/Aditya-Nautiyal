@@ -1,4 +1,4 @@
-<img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg?raw=true" style="width: 100%;" />
+<img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/MightGuy.png?raw=true" style="width: 100%;" />
 
 
 
