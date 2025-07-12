@@ -1,4 +1,9 @@
-<img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg?raw=true" alt="logo" style="width: 100%;" />
+<div style="width: 100%; height: auto; overflow: hidden;">
+  <img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg?raw=true" 
+       alt="logo" 
+       style="width: 100%; height: 120%; object-fit: cover; object-position: center 55%;" />
+</div>
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
