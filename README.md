@@ -5,9 +5,8 @@
 # 💫 About Me:
 🔭 I’m currently working on: Full-stack web development using **React**, **Node.js**, and **MongoDB**  
 👯 I’m looking to collaborate on: Open-source projects, MERN stack applications, and developer tools  
-🤝 I’m looking for help with: Building scalable backend systems and improving code performance  
-🌱 I’m currently learning: **Next.js**, **AWS**, and **Azure**  
-💬 Ask me about: JavaScript, REST APIs, React, Node.js, MongoDB, and authentication logic  
+🌱 I’m currently learning: **Next.js**, **AWS** and **Azure**  
+💬 Ask me about: JavaScript, REST APIs, React, Node.js, MongoDB etc 
 ⚡ Fun fact: I love solving real-world problems through code and I'm a big fan of anime and debugging at midnight!
 
 
