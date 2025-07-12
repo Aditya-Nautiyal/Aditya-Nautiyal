@@ -1,4 +1,5 @@
-![logo](https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg)
+<img src="https://github.com/Aditya-Nautiyal/Aditya-Nautiyal/blob/main/mightGuy.jpg?raw=true" alt="logo" style="width: 100%;" />
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
